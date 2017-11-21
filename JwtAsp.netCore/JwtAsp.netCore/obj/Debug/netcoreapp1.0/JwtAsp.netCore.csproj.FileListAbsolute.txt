@@ -1,0 +1,6 @@
+D:\Maulik Work\Authentication\JwtAsp.netCore\JwtAsp.netCore\bin\Debug\netcoreapp1.0\JwtAsp.netCore.deps.json
+D:\Maulik Work\Authentication\JwtAsp.netCore\JwtAsp.netCore\bin\Debug\netcoreapp1.0\JwtAsp.netCore.runtimeconfig.json
+D:\Maulik Work\Authentication\JwtAsp.netCore\JwtAsp.netCore\bin\Debug\netcoreapp1.0\JwtAsp.netCore.runtimeconfig.dev.json
+D:\Maulik Work\Authentication\JwtAsp.netCore\JwtAsp.netCore\obj\Debug\netcoreapp1.0\JwtAsp.netCore.csprojResolveAssemblyReference.cache
+D:\Maulik Work\Authentication\JwtAsp.netCore\JwtAsp.netCore\obj\Debug\netcoreapp1.0\JwtAsp.netCore.csproj.CoreCompileInputs.cache
+D:\Maulik Work\Authentication\JwtAsp.netCore\JwtAsp.netCore\obj\Debug\netcoreapp1.0\JwtAsp.netCore.AssemblyInfo.cs
